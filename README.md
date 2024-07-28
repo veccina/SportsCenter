@@ -6,6 +6,15 @@ Welcome to the official repository for the Veccina Sports Center website. This s
 
 You can view the live version of the Veccina Sports Center website here: [Veccina Sports Center Live Site](https://veccina-sports-center.netlify.app)
 
+## Screenshots
+
+![1](https://github.com/user-attachments/assets/d527375f-8c14-4be4-8622-e36f02c0507b)
+![Ekran Görüntüsü (22)](https://github.com/user-attachments/assets/1b66cbe3-8b26-4543-a69f-64d11d120422)
+![Ekran Görüntüsü (23)](https://github.com/user-attachments/assets/6ff65160-eee8-41ff-a972-53d3257a8306)
+![Ekran Görüntüsü (24)](https://github.com/user-attachments/assets/6857685c-6c39-4200-8d9b-45be25b117ea)
+![Ekran Görüntüsü (25)](https://github.com/user-attachments/assets/1028182d-f364-419a-bdc3-85099cce9049)
+![Ekran Görüntüsü (26)](https://github.com/user-attachments/assets/98b9a2ca-7d75-4603-a147-2283c00e2dd4)
+
 ## Features
 
 - **Home Section:** Start your journey on our homepage where you can quickly navigate to any section of the site.
